@@ -86,6 +86,10 @@ git clone https://github.com/mnxmnz/Movie-Clone.git
 yarn
 ```
 
+```sh
+cd Movie-Clone
+```
+
 #### [4] Run the Project
 
 ```sh
