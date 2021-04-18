@@ -80,14 +80,14 @@ src
 git clone https://github.com/mnxmnz/Movie-Clone.git
 ```
 
+```sh
+cd Movie-Clone
+```
+
 #### [3] Install Packages
 
 ```sh
 yarn
-```
-
-```sh
-cd Movie-Clone
 ```
 
 #### [4] Run the Project
