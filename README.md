@@ -3,7 +3,7 @@
     <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqJB0z%2FbtqRpuCA14P%2FVh1ORgAJz16aSGGpNPRN1K%2Fimg.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h2 align="center"><a href="https://mnxmnz.github.io/Movie-Clone/#/">Movie Clone</a></h2>
+  <h2 align="center">Movie Clone</h2>
 </p>
 
 ## 📑 레포 소개
@@ -95,10 +95,6 @@ yarn
 ```sh
 yarn start
 ```
-
-### :link: URL
-
-- [Movie Clone 바로가기](https://mnxmnz.github.io/Movie-Clone/#/)
 
 #### :open_file_folder: 참고
 
